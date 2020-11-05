@@ -1,0 +1,1 @@
+# -define-echoPin-6-define-trigPin-7-define-buzzerPin-8-int-maximumRange-50-int-minimumRange-0
